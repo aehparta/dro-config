@@ -4,10 +4,3 @@ port: 8080
 log:
   syslog: false
   stdout: true
-
-backup:
-  git:
-    url: https://github.com/aehparta/dro-config.git
-    user: aehparta@iki.fi
-    pass: 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
-    branch: config
