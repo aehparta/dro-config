@@ -36,19 +36,19 @@ keyboard:
   a:
     dro.select.a:
       whenEditing: false
-    vision.select:
+    vision.select.camera:
       camera: 3
       whenEditing: false
   b:
     dro.select.b:
       whenEditing: false
-    vision.select:
+    vision.select.camera:
       camera: 4
       whenEditing: false
   c:
     dro.select.c:
       whenEditing: false
-    vision.select:
+    vision.select.camera:
       camera: 5
       whenEditing: false
   ctrl+c:
@@ -61,19 +61,19 @@ keyboard:
   x:
     dro.select.x:
       whenEditing: false
-    vision.select:
+    vision.select.camera:
       camera: 0
       whenEditing: false
   y:
     dro.select.y:
       whenEditing: false
-    vision.select:
+    vision.select.camera:
       camera: 1
       whenEditing: false
   z:
     dro.select.z:
       whenEditing: false
-    vision.select:
+    vision.select.camera:
       camera: 2
       whenEditing: false
   "\xA7":
