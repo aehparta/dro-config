@@ -36,11 +36,20 @@ keyboard:
   a:
     dro.select.a:
       whenEditing: false
+    vision.select:
+      camera: 3
+      whenEditing: false
   b:
     dro.select.b:
       whenEditing: false
+    vision.select:
+      camera: 4
+      whenEditing: false
   c:
     dro.select.c:
+      whenEditing: false
+    vision.select:
+      camera: 5
       whenEditing: false
   ctrl+c:
     cancel: null
@@ -52,11 +61,20 @@ keyboard:
   x:
     dro.select.x:
       whenEditing: false
+    vision.select:
+      camera: 0
+      whenEditing: false
   y:
     dro.select.y:
       whenEditing: false
+    vision.select:
+      camera: 1
+      whenEditing: false
   z:
     dro.select.z:
+      whenEditing: false
+    vision.select:
+      camera: 2
       whenEditing: false
   "\xA7":
     dro.half: null
