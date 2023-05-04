@@ -4,13 +4,29 @@
   manufacturer: Dormer
   materials:
     P:
-      vc: 126
-      fn: 0.029
+      vc: 97
+      fn: 0.01
     N - Aluminium:
       vc: 159
       fn: 0.043
     N - Cast aluminium:
       vc: 72
+      fn: 0.029
+- id: C24610.0
+  type: end mill
+  d: 10
+  manufacturer: Dormer
+  materials:
+    P:
+      vc: 97
+      fn: 0.018
+- id: C24616.0
+  type: end mill
+  d: 16
+  manufacturer: Dormer
+  materials:
+    P:
+      vc: 97
       fn: 0.029
 - id: C2476.0
   type: end mill
@@ -18,7 +34,7 @@
   manufacturer: Dormer
   materials:
     P:
-      vc: 59
+      vc: 45
       fn: 0.01
 - id: C24716.0
   type: end mill
@@ -26,7 +42,7 @@
   manufacturer: Dormer
   materials:
     P:
-      vc: 59
+      vc: 45
       fn: 0.029
 - id: CCMT060208-UF 5015
   type: insert

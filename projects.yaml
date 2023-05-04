@@ -35,7 +35,7 @@
             z: 0
           G59:
             y: 0
-      tool_id: Boring head indexable
+      tool_id: C2476.0
     '2: KF 25 L':
       offset_id: G54
       tool_id: APMT1604PDER-H2
